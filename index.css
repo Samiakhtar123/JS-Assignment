@@ -1,0 +1,15 @@
+p{
+    font-size: 20px;
+}
+
+li{
+    font-size: 20px;
+}
+
+body{
+    background-image: linear-gradient(90deg , rgb(238, 89, 89) , skyblue ,rgb(204, 255, 192));
+}
+
+h1{
+    text-align: center;
+}
